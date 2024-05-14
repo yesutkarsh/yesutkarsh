@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Hi, I'm  Utkarsh Verma! </h2>
 
-<!--
-**yesutkarsh/yesutkarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em> FRONTEND | BACKEND </em></p>
 
-Here are some ideas to get you started:
+[![Twitter: utkarsh](https://img.shields.io/twitter/follow/utkarshVerma?style=social)](https://twitter.com/Utkarsh_Verma_)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-utkarshVerma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/yesutkarsh/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Simple is Better 
+
+```javascript
+let about ={
+"Name":"Utkarsh Verma",
+"Title":" Web Developer",
+"Skills":"MERN STACK $ NEXT JS",
+}
+
+
+let tools =[ HTML, CSS, JAVASCRIPT,
+MONGO DB, EXPRESS JS, REACT JS,
+ NODE JS, NEXT JS, GITHUB, GIT, SANITY]
+
+
+let email = "contactutkarshverma@gmail.com";
+let phoneNumber = 7985748915;
+
+```
+
+
+---
